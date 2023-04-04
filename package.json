@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "puppeteer": "^19.8.2",
+    "spotify-web-api-node": "^5.0.2"
+  },
+  "name": "spotify-api-remove-duplicate-tracks",
+  "version": "1.0.0",
+  "description": "NodeJS script using Spotify's WEB API to remove duplicated songs from a playlist.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "G.M.",
+  "license": "MIT"
+}
